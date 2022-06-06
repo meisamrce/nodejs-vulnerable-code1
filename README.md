@@ -1,4 +1,4 @@
-Secure Coding Academy
+Secure Code Academy
 
 Node JS Vulnerable Code1
 
